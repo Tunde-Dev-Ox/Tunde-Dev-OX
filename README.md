@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Orange Black 80s Aesthetic Welcome to My Page](https://github.com/user-attachments/assets/b5aa6ba4-55b1-41bd-a36c-f647ffc1cf9c)
+
 😍 I am Joseph Olatunde, a music student at the University of Lagos and a product management diploma student at AltSchool.
 I am quite passionate about coding, writing, technical product management, and the entire tech business.
 
