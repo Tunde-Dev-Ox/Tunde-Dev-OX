@@ -46,8 +46,6 @@ Fun fact: When I'm not writing code or building products, I'm probably writing m
 
 ## Connect with me:
 
-## Connect with me:
-
 <a href="https://twitter.com/__jot">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
 </a>
